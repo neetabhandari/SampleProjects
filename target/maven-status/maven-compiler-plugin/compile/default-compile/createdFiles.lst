@@ -1,0 +1,5 @@
+com\robotsandpencils\enums\Suit.class
+com\robotsandpencils\bean\Card.class
+com\robotsandpencils\enums\Rank.class
+com\robotsandpencils\main\DeckOfCardsMain.class
+com\robotsandpencils\bean\DeckOfCards.class
